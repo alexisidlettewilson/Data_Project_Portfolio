@@ -1,3 +1,3 @@
-# rProgramming
+# R Portfolio
 
-This is a line from RStudio.
+This projects serves as the repository for my data analysis projects using RStudio.
